@@ -1,7 +1,10 @@
 # Tsukasa client
 This project focuses on studying Java application logic, code modification, and feature integration using the MCP (Minecraft Coder Pack) environment
 
-Videos of the client:
+**Showcase**
+
+[![Alt text](https://img.youtube.com/vi/hOwoKO4TFdE/0.jpg)](https://www.youtube.com/watch?v=hOwoKO4TFdE)
+
 https://www.youtube.com/watch?v=hOwoKO4TFdE
 
 ## How to run
